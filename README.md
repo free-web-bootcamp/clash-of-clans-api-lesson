@@ -2,9 +2,9 @@
 Let's learn how to use the API for popular mobile game Clash of Clans. Written in Python.
 
 ## Learning Objectives
-- (https://developer.clashofclans.com/#/)[Sign up for CoC API]
+- [Sign up for CoC API](https://developer.clashofclans.com/#/)
 - Read documentation
-- (https://www.getpostman.com/)[Use Postman]
+- [Use Postman](https://www.getpostman.com/)
 - Write Python script
 - View example application
 
