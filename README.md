@@ -10,6 +10,12 @@ Let's learn how to use the API for popular mobile game Clash of Clans. Written i
 
 ## Video Link
 
+## How to run the example application
+1. Navigate into extra_experts directory
+2. Write `python server.py` into your terminal
+3. Browse to http://localhost:5000/player
+4. To add new data or more routes, please try to read the code and challenge yourself to make a new html rendered page with data.
+
 ## Need help or something no longer working?
 
 Raise an issue on this repository
