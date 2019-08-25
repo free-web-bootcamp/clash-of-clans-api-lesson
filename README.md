@@ -9,6 +9,7 @@ Let's learn how to use the API for popular mobile game Clash of Clans. Written i
 - View example application
 
 ## Video Link
+https://www.youtube.com/watch?v=wYBEMBpEXrQ
 
 ## How to run the example application
 1. Navigate into extra_experts directory and add your API token to clash.py
